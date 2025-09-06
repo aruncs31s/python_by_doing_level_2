@@ -1,0 +1,12 @@
+{
+     "username": "aruncs31s",
+     "about": "Just a developer with laptop",
+     "experience": [
+            {
+                "position": "Go Developer",
+                "company": "ABC Labs",
+                "duration": "2025",
+                "description": "Working as Backend Go Developer"
+            }
+        ]
+}
